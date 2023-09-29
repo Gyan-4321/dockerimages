@@ -1,0 +1,4 @@
+From ubuntu
+LABEL key="gyanesh"
+RUN apt-get update
+CMD [ "echo","Hello world" ]
